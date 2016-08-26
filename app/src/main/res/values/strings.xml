@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DanmuTest1</string>
+    <string-array name="comments">
+        <item>Jenny</item>
+        <item>Jenny</item>
+        <item>Jenny</item>
+        <item>Jenny</item>
+        <item>Jenny</item>
+        <item>Jenny</item>
+        <item>Jenny</item>
+        <item>Jenny</item>
+    </string-array>
+</resources>
